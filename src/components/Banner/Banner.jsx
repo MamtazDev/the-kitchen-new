@@ -3,7 +3,7 @@ import welcomeKitchen from "../../assets/welcome_to_the_kitchen_sticker.png";
 import "./Banner.css";
 const Banner = () => {
   return (
-    <>
+    <div className="banner1_border">
       <div
         className="banner d-flex justify-content-center align-items-center"
         id="banner_one"
@@ -42,7 +42,13 @@ const Banner = () => {
         />
         Your browser does not support the video tag.
       </video>
-    </>
+      <div class="point-click">
+        <img
+          alt="point-click"
+          src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665402708194_120193136/point_click.png"
+        />
+      </div>
+    </div>
   );
 };
 

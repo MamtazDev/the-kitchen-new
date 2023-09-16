@@ -10,7 +10,7 @@ import "./NavBar.css";
 import { Link, NavLink } from "react-router-dom";
 function NavBar() {
   return (
-    <Navbar expand="lg" className="nav_bg">
+    <Navbar expand="lg" className="nav_bg ">
       <Container fluid className="p-0 m-0">
         <Navbar.Brand href="#">
           <div class="svg-container">

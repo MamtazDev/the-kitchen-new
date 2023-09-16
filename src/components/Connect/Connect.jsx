@@ -42,6 +42,7 @@ const Connect = () => {
               />
             </video>
           </div>
+          
         </div>
       </div>
     </>

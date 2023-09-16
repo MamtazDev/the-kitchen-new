@@ -67,7 +67,17 @@
     height: 67px;
     margin-right: 50px;
 }
-
+.point-click {
+    display: flex;
+    justify-content: center;
+}
+.point-click img {
+    width: 11.6vw;
+    position: absolute;
+    /* bottom: -5vw; */
+    top: 92vw !important;
+    z-index: 8 !important;
+}
 /* responsive */
 @media only screen and (max-width: 767px) {
     .connect_title {
