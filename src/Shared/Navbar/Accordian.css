@@ -1,0 +1,49 @@
+h3:first-child {
+  border-top: none;
+}
+
+label {
+  cursor: default;
+}
+/* .title {
+  font-size: 4.1vw;
+  font-weight: 500;
+  color: #203d37;
+  font-family: "Poppins";
+  padding: 1.5vw 0 1.5vw 4vw;
+} */
+.title {
+  display: flex !important;
+  align-items: center !important;
+  font-size: 4.1vw;
+  font-weight: 500;
+  color: #203d37;
+  font-family: "Poppins";
+  padding: 1.5vw 0 1.5vw 4vw;
+}
+.bold,
+.bold-wrap {
+  background: #ff9ffc !important;
+}
+.vector {
+  margin-left: 16px !important;
+}
+h3 img,
+h3 div {
+  margin-left: 6px;
+}
+.circle-vector {
+  width: 10px;
+  height: auto;
+}
+.angel-vecor {
+  height: 38px;
+}
+.angelvector1 {
+  margin-left: -14px;
+}
+.angel-vecor {
+  height: 38px;
+}
+@media screen and (min-width: 1024px) and (max-width: 1400px) {
+}

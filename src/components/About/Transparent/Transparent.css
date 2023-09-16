@@ -1,0 +1,68 @@
+.transparent,
+.transparent_container {
+    background-color: #daf5fe !important;
+}
+
+.transparentTitle {
+    display: flex !important;
+    align-items: center !important;
+    font-size: 4.1vw !important;
+    font-weight: 700 !important;
+    color: #203d37;
+    font-family: "Poppins", sans-serif;
+    padding: 1.5vw 0 1.5vw 4vw;
+
+}
+
+.transparent-wrap p {
+    width: 76vw;
+    margin: 0 auto;
+}
+
+
+
+.transparent-wrap .smile-wrap .chat-bubbles {
+    height: 7.01vw;
+}
+
+.transparent-wrap .smile-wrap {
+    text-align: right;
+    margin-top: -6vw;
+    margin-right: 11vw;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .description {
+        font-size: 13.3vw !important;
+        padding: 5vw 3vw;
+        line-height: 14.93vw !important;
+    }
+
+    .transparent-wrap .smile-wrap .chat-bubbles {
+        height: 16.63vw !important;
+    }
+
+    .transparent-wrap .smile-wrap {
+        text-align: center !important;
+
+    }
+
+    .transparent-wrap .smile-wrap {
+        text-align: center;
+        /* margin-top: -6vw; */
+        margin-right: 0px !important;
+    }
+
+    .transparentTitle {
+        display: block !important;
+        font-weight: 500;
+        color: #203d37;
+        font-family: "Poppins";
+        font-size: 12vw !important;
+    }
+
+    .hbvector {
+        width: 4.76vw !important;
+    }
+}

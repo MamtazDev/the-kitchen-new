@@ -1,0 +1,54 @@
+.nav_bg {
+    background-color: #f2ff7f;
+    height: 84.734px !important;
+    padding: 0px;
+}
+
+.logo_design {
+    padding: 0.3vw 0.55vw;
+    cursor: pointer;
+    background: #203d37;
+    width: 3.47vw;
+    height: 3.7vw;
+}
+
+.svg-container {
+    background: unset;
+    padding: 0.3vw 0.55vw;
+    cursor: pointer;
+    background: #203d37;
+}
+
+.svg-container:hover {
+    background-color: #ff9ffc !important;
+    height: 100% !important;
+}
+
+.nav_link_design {
+    display: inline-block;
+    width: auto;
+    box-sizing: border-box;
+    padding: 21.800px 1.5vw;
+}
+
+.nav_link_design {
+    color: #203d37;
+    display: inline-block;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 1.48vw !important;
+    text-align: center;
+    text-decoration: none !important;
+}
+
+.nav_link_design:hover {
+    background-color: #ff9ffc !important;
+    text-decoration: underline !important;
+}
+
+.active {
+    background-color: #ff9ffc !important;
+    text-decoration: underline !important;
+
+}

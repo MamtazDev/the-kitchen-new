@@ -1,0 +1,291 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Staatliches&display=swap');
+
+h3:first-child {
+  border-top: none;
+}
+
+label {
+  cursor: default;
+}
+
+.title {
+  display: flex !important;
+  align-items: center !important;
+  font-size: 4.1vw;
+  font-weight: 500 !important;
+  color: #203d37;
+  font-family: "Poppins";
+  padding: 1.5vw 0 1.5vw 4vw;
+}
+
+.kindtitle {
+  display: flex !important;
+  align-items: center !important;
+  font-size: 4.1vw !important;
+  font-weight: 700 !important;
+  color: #203d37;
+  font-family: "Poppins",sans-serif;
+  padding: 1.5vw 0 1.5vw 4vw;
+
+}
+.kind-wrap p {
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.img-container {
+  display: flex;
+  align-items: center;
+
+}
+
+.vector {
+  margin-left: 16px !important;
+}
+
+h3 img,
+h3 div {
+  margin-left: 0.5vw;
+}
+
+.vector {
+  margin-left: 2vw !important;
+}
+
+.circle-vector {
+  height: 0.69vw;
+}
+
+.angel-vecor {
+  /* height: 38px; */
+  height: 2.84vw;
+}
+
+.angelvector1 {
+  margin-left: -14px;
+}
+
+.angel-vecor {
+  height: 38px;
+}
+
+.section1.showdiv,
+.section2.showdiv,
+.section3.showdiv,
+.section4.showdiv,
+.section5.showdiv {
+  transition-property: max-height;
+  transition-duration: 700ms;
+  transition-timing-function: ease-out;
+  transition-delay: 0ms;
+  overflow: hidden;
+  /* min-height: 750px; */
+  padding: 3.8vw 0 9vw;
+  animation: 2s;
+  /* animation-name: slidedown; */
+}
+
+.bold,
+.bold-wrap {
+  background: #ff9ffc;
+}
+
+/* kind */
+.kind,
+.kind-wrap {
+  background: #f2ff7f !important;
+}
+
+.smile {
+  position: absolute;
+  top: 1.5vw;
+  left: 1vw;
+  width: 2vw;
+}
+
+h3 img,
+h3 div {
+  margin-left: 0.5vw;
+}
+
+.curved {
+  margin-top: 1vw;
+  width: 4vw;
+}
+
+.kind div {
+  margin: 0;
+}
+
+.kindtitle div {
+  position: relative;
+  font-size: 3vw;
+}
+.chatBubbleImage{
+  width: 7.59vw !important;
+  height: 5.48vw !important;
+}
+
+.chat_container{
+  text-align: center;
+  margin-top: -80px;
+}
+
+/* kind */
+
+.desktop-desc {
+  display: block;
+}
+
+.description {
+  font-size: 6.6vw !important;
+  color: #203d37;
+  font-weight: 400;
+  padding: 0 15px;
+  transition: all 0.2s linear;
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+  margin: 0;
+  line-height: 7.08vw;
+}
+
+.shit {
+  height: 60px;
+  width: 62px;
+}
+
+.bold-wrap p {
+  width: 56vw;
+  height: auto;
+  margin: 0 auto;
+  font-weight: 400;
+}
+
+.description {
+  padding: 2vw 0;
+}
+
+.desktop-desc {
+  display: block;
+}
+
+.description {
+  padding: 2vw 0;
+}
+
+@media only screen and (max-width: 768px) {
+  .img-container {
+    display: flex !important;
+    align-items: center !important;
+  }
+  
+  .vector {
+    display: none !important;
+  }
+  
+  .vector1 {
+    display: block !important;
+  }
+  
+  .bold {
+    display: block !important;
+    font-weight: 500;
+    color: #203d37;
+    font-family: "Poppins";
+    font-size: 12vw !important;
+  }
+  
+  .circle-vector {
+    height: 1.84vw !important;
+    /* margin: 0px 3px; */
+  }
+  .angel-vecor{
+    /* margin-left: 1px; */
+    margin-right: 1px;
+  }
+  .angelvector1 {
+    margin-left: -1vw !important;
+}
+
+  .title {
+    font-size: 12vw !important;
+    padding: 5.5vw 0 8.5vw 4vw !important;
+  }
+  
+  .vector {
+    margin-left: 0vw !important;
+  }
+  
+  .bold-wrap p {
+    width: 78vw !important;
+    margin: 0 auto;
+  }
+  
+  .desktop-desc {
+    display: block !important;
+  }
+  
+  .description {
+    font-size: 13.3vw !important;
+    padding: 5vw 3vw;
+    line-height: 14.93vw !important;
+  }
+  
+  .ribbon {
+    width: 5.6vw !important;
+    margin-left: 1.2vw !important;
+  }
+  .img-container .smile {
+    position: absolute;
+    top: 0.5vw;
+    left: 3.7vw;
+    width: 3.93vw;
+  }
+  
+  .img-container .curved {
+    margin-top: 1vw;
+    width: 8.86vw;
+    margin-left: 1.2vw !important;
+  }
+  
+  .kindimg_container {
+    display: flex !important;
+    align-items: center;
+    gap: 2px !important;
+  }
+  
+  .kind-wrap p {
+    width: 75vw !important;
+    margin: 0 auto;
+  }
+  .chatBubbleImage{
+    width: 20.2vw !important;
+    height: 14.6vw !important;
+  }
+  .chat_container{
+    text-align: center;
+    margin-top: -29px;
+  }
+}
+@media only screen and (max-width: 1440px) {
+.chatBubbleImage{
+  width: 15.2vw !important;
+  height: 10.6vw !important;
+}
+.chat_container{
+  text-align: center;
+  margin-top: -50px;
+  /* margin-top: -45px; */
+}
+}
+@media only screen and (max-width: 425px) {
+.chatBubbleImage{
+  width: 15.2vw !important;
+  height: 10.6vw !important;
+}
+.chat_container{
+  text-align: center;
+  margin-top: -30px;
+  /* margin-top: -45px; */
+}
+}

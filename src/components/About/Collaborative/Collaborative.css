@@ -1,0 +1,45 @@
+.collaborative,
+.collaborative-wrap {
+    background-color: #fe5236 !important;
+}
+
+.collaborative-wrap {
+    background-color: #fe5236 !important;
+}
+
+p.description.desc2 {
+    color: #daf5fe !important;
+}
+
+.title2 {
+    color: #daf5fe !important;
+}
+
+.collaborative-wrap p {
+    width: 64vw;
+    margin: 0 auto;
+}
+
+.collab {
+    height: 6.8vw;
+}
+
+.collaborative-wrap .chat-wrap {
+    margin-top: -4.2vw;
+}
+
+/*  */
+
+
+@media only screen and (max-width: 768px) {
+    .title2 {
+        color: #daf5fe !important;
+        padding-left: 6px !important;
+    }
+    .less-vector, .greater-vector {
+    width: 4.78vw !important;
+}
+.collaborative-wrap .chat-wrap .collab {
+    height: 26.4vw;
+} 
+}

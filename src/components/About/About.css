@@ -1,0 +1,175 @@
+/* .banner-section {
+    display: flex !important;
+
+flex-direction: column;    padding: 4.5vw !important;
+    background: #daf5fe;
+    margin-top: 4.3vw;
+} */
+.text-container {
+    margin-top: 3vw;
+    width: 50%;
+}
+
+.vedio-container {
+    width: 50%;
+    margin-left: 1vw;
+}
+
+.about_container {
+    padding: 4.5vw !important;
+    background: #daf5fe;
+}
+
+.about_video {
+    width: 36.87vw !important;
+    height: 36.87vw !important;
+}
+
+.about_left_text {
+    margin-top: 3vw !important;
+}
+
+.about_title {
+    margin-bottom: 0.5em;
+    line-height: 4.51vw;
+    position: relative;
+    font-size: 4.1vw;
+    font-weight: 700;
+    /* padding-top: 30px; */
+    color: #203D37 !important;
+    margin-top: 52.742px !important;
+}
+
+.about_description p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 2.7vw;
+    line-height: 3.19vw;
+    width: 44vw !important;
+    color: #203d37 !important;
+}
+
+.cls_description2 {
+    font-family: "Poppins";
+    font-size: 2.7vw !important;
+    line-height: 3.19vw;
+    /* width: 55vw; */
+    text-align: left !important;
+    color: #203D37 !important;
+    font-weight: 700 !important;
+    margin-bottom: 42.240px !important;
+}
+
+.cls_subdescription p {
+    font-size: 5vw !important;
+    line-height: 5.4vw;
+    font-family: 'Staatliches';
+    color: #fe5236;
+    width: 39vw;
+    margin-top: 0;
+
+}
+
+.banner4 {
+    background-color: #daf5fe !important;
+    padding: 3vw 4vw !important;
+}
+
+.banner4 video {
+    width: 44.72vw;
+    height: 55.83vw;
+    background: rgba(241, 241, 241, 0.03);
+    box-shadow: 9.95483px 9.95483px 0 #ff9ffc;
+    border-radius: 7.46612px;
+}
+
+.bottom-image {
+    width: 40vw !important;
+    text-align: right !important;
+    margin-top: -0.5vw !important;
+    margin-left: -5vw;
+}
+
+.bottom-image img {
+    width: 11vw !important;
+}
+
+/* responsive */
+@media only screen and (max-width: 768px) {
+    .about_title {
+        color: #203d37 !important;
+        margin-bottom: 0.5em !important;
+        position: relative;
+        font-size: 10.6vw !important;
+        text-align: left;
+        line-height: 12.26vw !important;
+        margin: 0;
+    }
+
+    .about_description p {
+        width: 86vw !important;
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-size: 5.3vw !important;
+        line-height: 6.4vw !important;
+        color: #203d37 !important;
+    }
+
+    .p_25 {
+        padding: 0 25px;
+    }
+
+
+    .about_video {
+        width: 84.53vw !important;
+        height: 84.53vw !important;
+    }
+
+.banner{
+    margin-top: 32px !important;
+}
+    .banner4 .cls_description2 p {
+        font-size: 5.3vw !important;
+        line-height: 6.4vw !important;
+        width: 83vw !important;
+        margin-top: 25px !important;
+        margin-bottom: 0px !important;
+    }
+
+    .cls_textContentBox {
+        padding: 10vw 4vw 8vw;
+    }
+
+    .cls_subdescription p {
+        font-size: 13.33vw !important;
+        line-height: 14.93vw !important;
+        font-family: 'Staatliches';
+        color: #fe5236;
+        width: 82vw !important;
+        margin-top: 0;
+        margin-bottom: 0px;
+    }
+
+    .banner4 .bottom-image img {
+        width: 30vw !important;
+
+    }
+
+    .banner4 .bottom-image {
+        text-align: left !important;
+        margin-left: 0;
+        /* margin-top: -7vw !important; */
+        margin-bottom: 25px;
+
+
+    }
+    .banner4 video {
+        width: 85.6vw !important;
+        height: 107vw !important;
+        box-shadow: 9.95483px 9.95483px 0 #eeff67;
+        border-radius: 7.46612px;
+        margin: 0 auto !important;
+    }
+
+
+}
