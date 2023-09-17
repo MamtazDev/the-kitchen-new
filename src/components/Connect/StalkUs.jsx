@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 
 const StalkUs = () => {
   return (
-    <div className="stalk">
+    <div className="stalk container-fluid w-100 h-100">
       <div className="stalk_container">
         <div className="row d-flex justify-content-center align-items-center">
           <div className="col-lg-6 col-sm-12 stalk_image">
@@ -17,7 +17,7 @@ const StalkUs = () => {
           </div>
           <div className="col-lg-6 col-sm-12 stalk_menuContainer">
             <h1 className="stalk">stalk us</h1>
-            <div>
+            <div className="icon_bottom">
               <Link to="https://www.instagram.com/thekitchen_kraftheinz/">
                 <img className="socialicon " src={instagram} alt="" />
               </Link>

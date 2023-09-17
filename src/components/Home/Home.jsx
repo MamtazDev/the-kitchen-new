@@ -5,7 +5,7 @@ import StalkUs from "../Connect/StalkUs";
 
 const Home = () => {
   return (
-    <div>
+    <div >
       <Banner />
       <Connect />
       <StalkUs />
