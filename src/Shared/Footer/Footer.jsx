@@ -3,23 +3,23 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div>
-      <div class="copyright copyright_wrap">
-        <div class="copyright-text">
+      <div className="copyright copyright_wrap">
+        <div className="copyright-text">
           2022 The Kitchen. ©2022 Kraft Foods. ©2022 H.J. Heinz Company Brands
           LLC. All Rights Reserved
         </div>
-        <div class="c-menu">
+        <div className="c-menu">
           <div>chicago</div>| <div>toronto</div>
         </div>
       </div>
 
       <div id="footer_count">
         
-        <div class="copyright1 copyright_wrap content">
+        <div className="copyright1 copyright_wrap content">
           
-          <div class="privacy-wrapper">
+          <div className="privacy-wrapper">
             
-            <div class="cls_footerLink">
+            <div className="cls_footerLink">
               
               <a
                 href="https://www.myfoodandfamily.com/privacynotice"
@@ -32,10 +32,10 @@ const Footer = () => {
                 Privacy Policy
               </a>
             </div>
-            <span class="cls_footerBorder" aria-hidden="true">
+            <span className="cls_footerBorder" aria-hidden="true">
               |
             </span>
-            <div class="cls_footerLink">
+            <div className="cls_footerLink">
               
               <a
                 href="https://www.myfoodandfamily.com/useragreement"
@@ -48,11 +48,11 @@ const Footer = () => {
                 Terms of Use
               </a>
             </div>
-            <span class="cls_footerBorder" aria-hidden="true">
+            <span className="cls_footerBorder" aria-hidden="true">
               |
             </span>
             <script> var productListJson1 = null; </script>
-            <div class="cls_footerLink">
+            <div className="cls_footerLink">
               <a
                 href="https://www.myfoodandfamily.com/privacynotice#dontSellPersonalInfo"
                 target="_blank"
@@ -64,10 +64,10 @@ const Footer = () => {
                 Do Not Sell or Share My Personal Information
               </a>
             </div>
-            <span class="cls_footerBorder" aria-hidden="true">
+            <span className="cls_footerBorder" aria-hidden="true">
               |
             </span>
-            <div class="cls_footerLink">
+            <div className="cls_footerLink">
               
               <a
                 href="https://www.myfoodandfamily.com/privacynotice#donotusemysensitivepersonalinfo"
@@ -80,7 +80,7 @@ const Footer = () => {
                 Limit the Use of My Sensitive Personal Information
               </a>
             </div>
-            <span class="cls_footerBorder" aria-hidden="true">
+            <span className="cls_footerBorder" aria-hidden="true">
               |
             </span>
           </div>

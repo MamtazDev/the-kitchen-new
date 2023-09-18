@@ -11,12 +11,12 @@ const Banner = () => {
         <div className="banner_left_text">
           <div
             role="text"
-            class="cls_Title"
+            className="cls_Title"
             aria-label="Welcome to The Kitchen"
           >
             Welcome to The Kitchen
           </div>
-          <div class="cls_description">
+          <div className="cls_description">
             <p
               role="text"
               aria-label="We're the in-house agency at Kraft Heinz. Built to cook up bold ideas for our iconic brands that are powered by culture, creativity and collaboration. "
@@ -42,7 +42,7 @@ const Banner = () => {
             type="video/mp4"
           />
         </video>
-        <div class="point_click">
+        <div className="point_click">
           <img
           width={200}
           className="poin_image"

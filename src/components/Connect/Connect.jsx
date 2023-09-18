@@ -9,12 +9,12 @@ const Connect = () => {
           <div className="col-lg-6 col-sm-12 left_connect_container">
             <div
               role="text"
-              class="connect_title"
+              className="connect_title"
               aria-label="You can sit with us!"
             >
               You can sit with us!
             </div>
-            <div class="connect_description">
+            <div className="connect_description">
               <p
                 role="text"
                 aria-label="We’re bringing a diverse team of creators, thought-leaders and brand experts to the table to revolutionize the way we work and deliver breakthrough ideas at the speed of culture."

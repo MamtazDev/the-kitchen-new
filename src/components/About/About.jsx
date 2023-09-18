@@ -16,12 +16,12 @@ const About = () => {
           <div className="col-lg-6 col-sm-12 about_left_text">
             <div
               role="text"
-              class=" about_title"
+              className=" about_title"
               aria-label="You can sit with us!"
             >
               Mission
             </div>
-            <div class="about_description">
+            <div className="about_description">
               <p
                 role="text"
                 aria-label="We’re bringing a diverse team of creators, thought-leaders and brand experts to the table to revolutionize the way we work and deliver breakthrough ideas at the speed of culture."
@@ -57,7 +57,7 @@ const About = () => {
       <div className="banner4">
         <div className="row d-flex justify-content-center align-items-center">
           <div className="col-lg-6 col-sm-12 left_connect_container cls_textContentBox">
-            <div class="cls_description2">
+            <div className="cls_description2">
               <p
                 role="text"
                 aria-label="We’re bringing a diverse team of creators, thought-leaders and brand experts to the table to revolutionize the way we work and deliver breakthrough ideas at the speed of culture."
@@ -69,15 +69,15 @@ const About = () => {
             </div>
             <div
               role="text"
-              class="cls_subdescription"
+              className="cls_subdescription"
               aria-label="You can sit with us!"
             >
               <p>everyone on our team has a voice and a seat at the table.</p>
             </div>
-            <div class="bottom-image">
+            <div className="bottom-image">
               {" "}
               <img
-                class="bottom-image"
+                className="bottom-image"
                 src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665646280191_2035437876/TK_Logo_2022-poppy_red.svg"
                 title="vector-image"
                 alt="vector-image"

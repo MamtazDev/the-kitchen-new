@@ -11,12 +11,12 @@ const Work = () => {
           <div className="col-lg-6 col-sm-12 left_work_container">
             <div
               role="text"
-              class="work_title"
+              className="work_title"
               aria-label="You can sit with us!"
             >
               Turning the table on how work is made.
             </div>
-            <div class="work_description">
+            <div className="work_description">
               <p
                 role="text"
                 aria-label="We’re bringing a diverse team of creators, thought-leaders and brand experts to the table to revolutionize the way we work and deliver breakthrough ideas at the speed of culture."
@@ -83,15 +83,15 @@ const Work = () => {
             </div>
           </div>
         </div>
-     {/*    <div class="chat_wrap">
+     {/*    <div className="chat_wrap">
           <img
-            class="collab"
+            className="collab"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1666262708312_1559206247/point_click%201.png"
             alt="point-click"
           />{" "}
         </div> */}
         {/* view more button */}
-        <div class="view-more">
+        <div className="view-more">
           <a href="/playlist" alt="view more">
             view more
           </a>

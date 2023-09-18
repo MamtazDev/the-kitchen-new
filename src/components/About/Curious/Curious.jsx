@@ -9,311 +9,311 @@ const Curious = () => {
           <div className="img-container vector">
             <img
               alt="vector-image"
-              class="vector box-vector"
+              className="vector box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="less-vector"
+              className="less-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743985513_2032683614/Vector%20(13).png"
             ></img>
             <img
               alt="vector-image"
-              class="question-vector"
+              className="question-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665744067876_598171452/Vector%20(14).png"
             ></img>
             <img
               alt="vector-image"
-              class="greater-vector"
+              className="greater-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665747336924_1726742442/Vector%20(15).png"
             ></img>
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
 
             <img
               alt="vector-image"
-              class="less-vector"
+              className="less-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743985513_2032683614/Vector%20(13).png"
             ></img>
             <img
               alt="vector-image"
-              class="question-vector"
+              className="question-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665744067876_598171452/Vector%20(14).png"
             ></img>
             <img
               alt="vector-image"
-              class="greater-vector"
+              className="greater-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665747336924_1726742442/Vector%20(15).png"
             ></img>
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
 
             <img
               alt="vector-image"
-              class="less-vector"
+              className="less-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743985513_2032683614/Vector%20(13).png"
             ></img>
             <img
               alt="vector-image"
-              class="question-vector"
+              className="question-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665744067876_598171452/Vector%20(14).png"
             ></img>
             <img
               alt="vector-image"
-              class="greater-vector"
+              className="greater-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665747336924_1726742442/Vector%20(15).png"
             ></img>
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
 
             <img
               alt="vector-image"
-              class="less-vector"
+              className="less-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743985513_2032683614/Vector%20(13).png"
             ></img>
             <img
               alt="vector-image"
-              class="question-vector"
+              className="question-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665744067876_598171452/Vector%20(14).png"
             ></img>
             <img
               alt="vector-image"
-              class="greater-vector"
+              className="greater-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665747336924_1726742442/Vector%20(15).png"
             ></img>
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
 
             <img
               alt="vector-image"
-              class="less-vector"
+              className="less-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743985513_2032683614/Vector%20(13).png"
             ></img>
             <img
               alt="vector-image"
-              class="question-vector"
+              className="question-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665744067876_598171452/Vector%20(14).png"
             ></img>
             <img
               alt="vector-image"
-              class="greater-vector"
+              className="greater-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665747336924_1726742442/Vector%20(15).png"
             ></img>
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
 
             <img
               alt="vector-image"
-              class="less-vector"
+              className="less-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743985513_2032683614/Vector%20(13).png"
             ></img>
             <img
               alt="vector-image"
-              class="question-vector"
+              className="question-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665744067876_598171452/Vector%20(14).png"
             ></img>
             <img
               alt="vector-image"
-              class="greater-vector"
+              className="greater-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665747336924_1726742442/Vector%20(15).png"
             ></img>
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
           </div>
           <span className="img-container kindimg_container vector1 d-none">
             <img
               alt="vector-image"
-              class="vector box-vector"
+              className="vector box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="less-vector"
+              className="less-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743985513_2032683614/Vector%20(13).png"
             ></img>
             <img
               alt="vector-image"
-              class="question-vector"
+              className="question-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665744067876_598171452/Vector%20(14).png"
             ></img>
             <img
               alt="vector-image"
-              class="greater-vector"
+              className="greater-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665747336924_1726742442/Vector%20(15).png"
             ></img>
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
 
             <img
               alt="vector-image"
-              class="less-vector"
+              className="less-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743985513_2032683614/Vector%20(13).png"
             ></img>
             <img
               alt="vector-image"
-              class="question-vector"
+              className="question-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665744067876_598171452/Vector%20(14).png"
             ></img>
             <img
               alt="vector-image"
-              class="greater-vector"
+              className="greater-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665747336924_1726742442/Vector%20(15).png"
             ></img>
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
 
             <img
               alt="vector-image"
-              class="less-vector"
+              className="less-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743985513_2032683614/Vector%20(13).png"
             ></img>
             <img
               alt="vector-image"
-              class="question-vector"
+              className="question-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665744067876_598171452/Vector%20(14).png"
             ></img>
             <img
               alt="vector-image"
-              class="greater-vector"
+              className="greater-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665747336924_1726742442/Vector%20(15).png"
             ></img>
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
             <img
               alt="vector-image"
-              class="box-vector"
+              className="box-vector"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665743787261_712203192/Vector%20(12).png"
             />
           </span>
@@ -322,10 +322,10 @@ const Curious = () => {
           <p className="description desc1">
             WHEN WE ASK QUESTIONS WE GET UNEXPECTED ANSWERS
           </p>
-          <div class="chat-wrap">
+          <div className="chat-wrap">
             <img
               alt="whynot-image"
-              class="chat-bubbles"
+              className="chat-bubbles"
               src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665747890237_592152447/WhyNot.png"
             />
           </div>

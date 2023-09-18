@@ -8,242 +8,242 @@ const Transparent = () => {
         <div className="img-container vector">
           <img
             alt="vector-image"
-            class="vector circle-vector"
+            className="vector circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           />
 
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
 
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           />
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
 
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           />
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
 
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           />
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
         </div>
         <span className="img-container kindimg_container vector1 d-none">
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
 
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           />
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
 
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           />
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
 
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           />
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
 
           <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           />
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
           <img
             alt="vector-image"
-            class="ribbon"
+            className="ribbon"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665739937088_2053474474/Vector%20(9).png"
           ></img>
           <img
             alt="vector-image"
-            class="circle-vector"
+            className="circle-vector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665660968886_1151075996/Vector%20(5).png"
           ></img>
            {/* <img
             alt="vector-image"
-            class="hbvector"
+            className="hbvector"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665742878629_1720549049/Vector%20(11).png"
           /> */}
         </span>
@@ -257,7 +257,7 @@ const Transparent = () => {
           {/* <img className="chatBubbleImage" src={chatBubble3} alt="" /> */}
           <img
             alt="smile"
-            class="chat-bubbles"
+            className="chat-bubbles"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1666066277528_1457718600/smiley_4%201.png"
           ></img>
         </div>
