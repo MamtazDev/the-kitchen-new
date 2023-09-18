@@ -6,9 +6,9 @@ import { Link } from "react-router-dom";
 
 const StalkUs = () => {
   return (
-    <div className="stalk container-fluid w-100 h-100">
+    <div className="stalk w-100 h-100 overflow-hidden">
       <div className="stalk_container">
-        <div className="row d-flex justify-content-center align-items-center">
+        <div className="row d-flex justify-content-center align-items-center cls_footerWrapDesktop">
           <div className="col-lg-6 col-sm-12 stalk_image">
             <a href="" className="cls_footerLogoImg ">
               

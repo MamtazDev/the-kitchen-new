@@ -9,6 +9,10 @@
   padding: 3.8vw 5.76vw;
   background-color: #ff9ffc !important;
   position: relative;
+  border-bottom: 5px solid #fe5236;
+  border-top: 5px solid #fe5236;
+  padding-top: 0px !important;
+  margin-top: 0px !important;
 }
 
 .connect_description p {
@@ -17,6 +21,7 @@
   width: 39vw;
   color: #203d37 !important;
   font-weight: 700;
+  line-height: 3.19vw !important;
 }
 
 .cls_button {
@@ -67,49 +72,61 @@
   height: 67px;
   margin-right: 50px;
 }
+
 .point-click {
   display: flex;
   justify-content: center;
 }
+
 .point-click img {
   width: 11.6vw;
   position: absolute;
   top: 91vw !important;
   z-index: 8 !important;
 }
-/* responsive */
 
-/* @media only screen and (max-width: 320px) {
-    .point-click img {
-        width: 30vw !important;
-        position: absolute !important;
-        left: 26vw !important;
-        top: 820px !important;
-      }
-    
+.cls_footerWrapDesktop {
+  padding: 0 6vw 0 13.6vw;
+  height: 558px !important;
 }
-@media only screen and (min-width: 375px) {
-    .point-click img {
-       display: none !important;
-      }
-    
-} */
+
+.stalk_menuContainer {
+  text-align: left;
+}
+
+@media only screen and (max-width: 375px) {
+  .point-click img {
+    width: 30vw !important;
+    position: absolute !important;
+    left: 26vw !important;
+    top: 947px !important;
+  }
+}
+
 @media only screen and (max-width: 768px) {
+  .cls_footerWrapDesktop {
+    padding: 0px;
+    height: 100% !important;
+  }
+
   .connect_title {
     font-size: 10.6vw !important;
     width: 60vw;
     line-height: 12.26vw !important;
     margin-top: 100px;
   }
+
   .point-click img {
     width: 30vw !important;
     position: absolute !important;
     left: 26vw !important;
     top: 820px !important;
   }
+
   .left_connect_container {
     padding: 0px 33px !important;
   }
+
   .connect_description p {
     max-width: 100% !important;
     margin-bottom: 0px !important;
@@ -179,21 +196,24 @@
     height: 42px;
     margin-right: 14px !important;
   }
+
   .stalk {
     color: #eeff67;
     font-size: 12vw !important;
     font-family: "Poppins";
     font-weight: 700;
     padding: 0px !important;
-    /* height: 30.2vw !important; */
   }
+
   .cls_footerTopContainer .cls_menuContainer {
     text-align: left;
     margin-left: 14vw;
   }
+
   .stalk_menuContainer {
     padding-left: 44.8px;
   }
+
   .icon_bottom {
     padding-bottom: 30px;
   }

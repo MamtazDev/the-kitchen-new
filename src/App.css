@@ -10,17 +10,12 @@ body {
   padding: 0 !important;
   margin: 0 !important;
 }
-/* p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-a {
-  margin: 0px !important;
-  padding: 0px !important;
-} */
+.multiple_people_video{
+  border-radius: 7.46612px !important;
+  background: rgba(241, 241, 241, 0.04);
+  box-shadow: 9.95483px 9.95483px 0px #eeff67;
+}
+
 
 .marquee {
   border-top: 5px solid #fe5236 !important;

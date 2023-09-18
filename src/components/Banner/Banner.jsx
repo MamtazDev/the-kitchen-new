@@ -35,18 +35,21 @@ const Banner = () => {
           />
         </div>
       </div>
-      <video width="100%" height="auto" controls>
-        <source
-          src="https://contenthub.kraftheinz.com/api/public/content/ff2a71f6b1ac4aeab38c7b1ab420c646?v=4aa8bb60"
-          type="video/mp4"
-        />
-        Your browser does not support the video tag.
-      </video>
-      <div class="point-click">
-        <img
-          alt="point-click"
-          src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665402708194_120193136/point_click.png"
-        />
+      <div className="videooo">
+        <video width="100%" height="auto" controls className="" >
+          <source
+            src="https://contenthub.kraftheinz.com/api/public/content/ff2a71f6b1ac4aeab38c7b1ab420c646?v=4aa8bb60"
+            type="video/mp4"
+          />
+        </video>
+        <div class="point_click">
+          <img
+          width={200}
+          className="poin_image"
+            alt="point-click"
+            src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665402708194_120193136/point_click.png"
+          />
+        </div>
       </div>
     </div>
   );
