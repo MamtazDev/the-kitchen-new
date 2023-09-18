@@ -16,7 +16,7 @@ function Nav1() {
     >
       <Container fluid className="p-0">
         <Navbar.Brand href="#home">
-          <div class="svg-container">
+          <div className="svg-container">
             <Link
               to="/"
               alt="home-page"
@@ -45,8 +45,8 @@ function Nav1() {
             <div className={`hover_div ${pathname === "/" && "active"}`}>
               <NavLink
                 to="/"
-                activeclass="active"
-                className="navlink home_class d-none text_nav"
+                // activeclassName="active"
+                className="navlink home_className d-none text_nav"
               >
                 Home
               </NavLink>
@@ -54,14 +54,17 @@ function Nav1() {
             <div className={`hover_div ${pathname === "/work" && "active"}`}>
               <NavLink
                 to="/work"
-                activeclass="active"
+                // activeclassName="active"
                 className="navlink text_nav"
               >
                 Work
               </NavLink>
             </div>
-            <div className={`hover_div ${pathname === "/about" && "active"}`} id="about_mr">
-              <NavLink  to="/about" className="navlink text_nav">
+            <div
+              className={`hover_div ${pathname === "/about" && "active"}`}
+              id="about_mr"
+            >
+              <NavLink to="/about" className="navlink text_nav">
                 About
               </NavLink>
             </div>
