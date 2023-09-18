@@ -36,7 +36,7 @@ const Banner = () => {
         </div>
       </div>
       <div className="videooo">
-        <video width="100%" height="auto" controls className="" >
+        <video width="100%" height="auto"  controls className="" >
           <source
             src="https://contenthub.kraftheinz.com/api/public/content/ff2a71f6b1ac4aeab38c7b1ab420c646?v=4aa8bb60"
             type="video/mp4"

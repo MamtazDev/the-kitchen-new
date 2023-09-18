@@ -83,18 +83,18 @@ const Work = () => {
             </div>
           </div>
         </div>
-     {/*    <div className="chat_wrap">
+        <div className="chat_wrap">
           <img
             className="collab"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1666262708312_1559206247/point_click%201.png"
             alt="point-click"
           />{" "}
-        </div> */}
+        </div>
         {/* view more button */}
         <div className="view-more">
-          <a href="/playlist" alt="view more">
+          <Link to="/playlist" alt="view more">
             view more
-          </a>
+          </Link>
         </div>
       </div>
       <StalkUs />

@@ -26,7 +26,7 @@ function Nav1() {
             >
               <img
                 src={tk1}
-                style={{ width: "3.47vw", height: "3.7vw" }}
+                // style={{ width: "3.47vw", height: "3.7vw" }}
                 alt="The Kitchen logo"
                 aria-label="The Kitchen logo"
                 role="img"
@@ -42,29 +42,21 @@ function Nav1() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav ">
           <Nav className="mx-auto"></Nav>
-          <Nav className="d-sm-flex justify-content-sm-center">
-            <div>
-              <NavLink
-                to="/"
-                // activeclassName="active"
-                className="navlink home_className d-none text_nav"
-              >
+          <Nav className="d-sm-flex justify-content-sm-center me-md-5 me-0 ">
+            <div
+              className={` d-md-none hover_div ${pathname === "/" && "active"}`}
+            >
+              <NavLink to="/" className="navlink text_nav">
                 Home
               </NavLink>
             </div>
+
             <div className={`hover_div ${pathname === "/work" && "active"}`}>
-              <NavLink
-                to="/work"
-                // activeclassName="active"
-                className="navlink text_nav"
-              >
+              <NavLink to="/work" className="navlink text_nav">
                 Work
               </NavLink>
             </div>
-            <div
-              className={`hover_div ${pathname === "/about" && "active"}`}
-              id="about_mr"
-            >
+            <div className={`hover_div ${pathname === "/about" && "active"}`}>
               <NavLink to="/about" className="navlink text_nav">
                 About
               </NavLink>

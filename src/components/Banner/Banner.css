@@ -31,13 +31,26 @@
 #banner_one {
   background-color: #daf5fe !important;
   padding: 4vw 0;
-  border-bottom: 5px solid #fe5236;
+  /* border-bottom: 5px solid #fe5236; */
 }
-/* 
-.banner1_border {
-  border-bottom: 5px solid red;
-  margin-bottom: 0px !important;
-} */
+
+.videooo {
+  background-color: #fe5236;
+  margin-bottom: -5px !important;
+  /* overflow: hidden; */
+}
+
+.videooo {
+  position: relative;
+}
+
+.point_click {
+  position: absolute !important;
+  bottom: -78px;
+  left: 50%;
+  transform: translateX(-50%) !important;
+  z-index: 9999 !important;
+}
 
 @media only screen and (max-width: 767px) {
   .banner {
@@ -82,18 +95,17 @@
     padding-right: 25px;
   }
 
-  .videooo {
-    position: relative;
-  }
 
-  .point_click {
-    position: absolute;
+
+/*   .point_click {
+
     bottom: -90px !important;
-    left:26vw !important;
+    left: 26vw !important;
     transform: translateX(-50%);
-    z-index: 99999;
-  }
-  .point_click img{
+    z-index: 99999 !important;
+  } */
+
+  .point_click img {
     width: 30vw !important;
   }
 
@@ -118,17 +130,4 @@
     padding-bottom: 25px;
     padding-top: 0px;
   }
-}
-
-
-.videooo {
-  position: relative;
-}
-
-.point_click {
-  position: absolute;
-  bottom: -78px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 99999;
 }
