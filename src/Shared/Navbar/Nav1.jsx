@@ -4,6 +4,7 @@ import Navbar from "react-bootstrap/Navbar";
 import tk1 from "../../assets/TK_Table_logo1.png";
 import tk2 from "../../assets/tklogo.png";
 import { Link, NavLink, useLocation } from "react-router-dom";
+import "./NavBar.css";
 function Nav1() {
   const { pathname } = useLocation();
 
@@ -42,7 +43,7 @@ function Nav1() {
         <Navbar.Collapse id="responsive-navbar-nav ">
           <Nav className="mx-auto"></Nav>
           <Nav className="d-sm-flex justify-content-sm-center">
-            <div className={`hover_div ${pathname === "/" && "active"}`}>
+            <div>
               <NavLink
                 to="/"
                 // activeclassName="active"
