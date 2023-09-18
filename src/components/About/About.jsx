@@ -1,5 +1,5 @@
 import React from "react";
-import Marquee from "./Marquee";
+import Marquee from "./Marquee/Marquee";
 import Accordian from "./Accordian";
 import "./About.css";
 import Transparent from "./Transparent/Transparent";
