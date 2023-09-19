@@ -8,26 +8,31 @@ label {
   cursor: default;
 }
 
+.bold_text {
+  font-family: "Poppins", sans-serif;
+}
+
 .title {
   display: flex !important;
   align-items: center !important;
   font-size: 4.1vw;
-  font-weight: 500 !important;
+  font-weight: 700 !important;
   color: #203d37;
-  font-family: "Poppins";
+  font-family: "Poppins" !important;
   padding: 1.5vw 0 1.5vw 4vw;
 }
 
-.kindtitle {
+/* .kindtitle {
   display: flex !important;
   align-items: center !important;
   font-size: 4.1vw !important;
   font-weight: 700 !important;
   color: #203d37;
-  font-family: "Poppins",sans-serif;
+  font-family: "Poppins", sans-serif !important;
   padding: 1.5vw 0 1.5vw 4vw;
 
-}
+} */
+
 .kind-wrap p {
   width: 70vw;
   margin: 0 auto;
@@ -121,12 +126,13 @@ h3 div {
   position: relative;
   font-size: 3vw;
 }
-.chatBubbleImage{
+
+.chatBubbleImage {
   width: 7.59vw !important;
   height: 5.48vw !important;
 }
 
-.chat_container{
+.chat_container {
   text-align: center;
   margin-top: -80px;
 }
@@ -178,15 +184,15 @@ h3 div {
     display: flex !important;
     align-items: center !important;
   }
-  
+
   .vector {
     display: none !important;
   }
-  
+
   .vector1 {
     display: block !important;
   }
-  
+
   .bold {
     display: block !important;
     font-weight: 500;
@@ -194,98 +200,103 @@ h3 div {
     font-family: "Poppins";
     font-size: 12vw !important;
   }
-  
+
   .circle-vector {
     height: 1.84vw !important;
     /* margin: 0px 3px; */
   }
-  .angel-vecor{
+
+  .angel-vecor {
     /* margin-left: 1px; */
     margin-right: 1px;
   }
+
   .angelvector1 {
     margin-left: -1vw !important;
-}
+  }
 
   .title {
     font-size: 12vw !important;
     padding: 5.5vw 0 8.5vw 4vw !important;
   }
-  
+
   .vector {
     margin-left: 0vw !important;
   }
-  
+
   .bold-wrap p {
     width: 78vw !important;
     margin: 0 auto;
   }
-  
+
   .desktop-desc {
     display: block !important;
   }
-  
+
   .description {
     font-size: 13.3vw !important;
     padding: 5vw 3vw;
     line-height: 14.93vw !important;
   }
-  
+
   .ribbon {
     width: 5.6vw !important;
     margin-left: 1.2vw !important;
   }
+
   .img-container .smile {
     position: absolute;
     top: 0.5vw;
     left: 3.7vw;
     width: 3.93vw;
   }
-  
+
   .img-container .curved {
     margin-top: 1vw;
     width: 8.86vw;
     margin-left: 1.2vw !important;
   }
-  
+
   .kindimg_container {
     display: flex !important;
     align-items: center;
     gap: 2px !important;
   }
-  
+
   .kind-wrap p {
     width: 75vw !important;
     margin: 0 auto;
   }
-  .chatBubbleImage{
-    width: 20.2vw !important;
-    height: 14.6vw !important;
-  }
-  .chat_container{
+
+
+  .chat_container {
     text-align: center;
     margin-top: -29px;
   }
 }
+
 @media only screen and (max-width: 1440px) {
-.chatBubbleImage{
-  width: 15.2vw !important;
-  height: 10.6vw !important;
+  .chatBubbleImage {
+    width: 15.2vw !important;
+    height: 10.6vw !important;
+  }
+
+  .chat_container {
+    text-align: center;
+    margin-top: -50px;
+    /* margin-top: -45px; */
+  }
 }
-.chat_container{
-  text-align: center;
-  margin-top: -50px;
-  /* margin-top: -45px; */
-}
-}
+
 @media only screen and (max-width: 425px) {
-.chatBubbleImage{
-  width: 15.2vw !important;
-  height: 10.6vw !important;
-}
-.chat_container{
-  text-align: center;
-  margin-top: -30px;
-  /* margin-top: -45px; */
-}
+  .chatBubbleImage {
+    width: 15.2vw !important;
+    height: 10.6vw !important;
+  }
+
+  .chat_container {
+    text-align: center;
+    margin-top: -30px;
+    /* margin-top: -45px; */
+  }
 }

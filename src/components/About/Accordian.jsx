@@ -7,7 +7,7 @@ const Accordian = () => {
       <div id="accordian" className="">
         <div className="panel1">
           <h3 className="title bold mb-0">
-            <label>bold </label>
+            <label className="bold_text">bold </label>
 
             <div className="img-container vector" aria-hidden="true">
               {/* First Set of Images */}

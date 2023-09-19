@@ -29,7 +29,7 @@ const Work = () => {
           </div>
 
           <div className="col-lg-6 col-sm-12 ">
-            <video width="100%" height="100%" autoPlay muted>
+            <video width="100%" height="100%" autoPlay muted loop>
               <source
                 src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1669837128309_506500362/TK_TurningTables_1.1.mp4"
                 type="video/mp4"

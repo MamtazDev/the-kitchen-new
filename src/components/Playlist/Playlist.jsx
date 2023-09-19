@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import StalkUs from "./../Connect/StalkUs";
 import "./Playlist.css";
 const Playlist = () => {
@@ -8,7 +8,10 @@ const Playlist = () => {
     setShowmore(!showmore);
     console.log(showmore);
   };
-
+  useEffect(() => {
+    // Scroll to the top of the page
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <>
       {/* .section3 */}
