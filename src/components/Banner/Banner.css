@@ -30,13 +30,14 @@
 
 #banner_one {
   background-color: #daf5fe !important;
-  padding: 4vw 0;
+  padding: 8vw 0;
   /* border-bottom: 5px solid #fe5236; */
 }
 
 .videooo {
   background-color: #fe5236;
   margin-bottom: -5px !important;
+  border-top: 5px solid #fe5236 !important;
   /* overflow: hidden; */
 }
 
@@ -53,12 +54,20 @@
 }
 
 @media only screen and (max-width: 767px) {
+  #banner_one {
+    background-color: #daf5fe !important;
+    padding: 8vw 0;
+    margin-top: 70px !important;
+  }
+
   .banner {
     margin-top: 0px !important;
   }
 
   .cls_Title {
     font-size: 12vw !important;
+    line-height: 13.3vw;
+    padding-bottom: 20px !important;
   }
 
   .banner {
@@ -77,8 +86,9 @@
   }
 
   .cls_description p {
-    font-size: 6.93vw !important;
     max-width: 100% !important;
+    font-size: 6.93vw !important;
+    line-height: 8.5vw !important;
     margin-bottom: 0px !important;
   }
 
@@ -97,7 +107,7 @@
 
 
 
-/*   .point_click {
+  /*   .point_click {
 
     bottom: -90px !important;
     left: 26vw !important;

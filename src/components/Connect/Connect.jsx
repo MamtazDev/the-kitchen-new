@@ -34,8 +34,8 @@ const Connect = () => {
             </div>
           </div>
 
-          <div className="col-lg-6 col-sm-12 ">
-            <video width="100%" height="auto" autoPlay muted style={{borderRadius:"7.46612px" ,boxShadow:"9.95483px 9.95483px 0px #eeff67",marginTop:"100px"}}>
+          <div className="col-lg-6 col-sm-12 cls_imageContent ">
+            <video width="100%" height="auto" autoPlay muted style={{borderRadius:"7.46612px" ,boxShadow:"9.95483px 9.95483px 0px #eeff67",marginTop:""}}>
               <source
                 src="https://d2ozwg77fjfk77.cloudfront.net/kraftuat/kraftbrands/kitchen/v202212011152p/video/TK_PeoplePixels_v2.mp4"
                 type="video/mp4"

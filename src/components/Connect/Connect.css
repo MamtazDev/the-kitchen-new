@@ -3,6 +3,7 @@
   font-weight: 700;
   position: relative;
   font-size: 4.1vw;
+  font-family: "Poppins",sans-serif;
 }
 
 .banner2 {
@@ -38,6 +39,7 @@
   border: 5px solid #203d37;
   border-radius: 10px;
   font-weight: 700;
+  margin-bottom: 40px !important;
 }
 
 .cls_button a {
@@ -104,6 +106,9 @@
 }
 
 @media only screen and (max-width: 768px) {
+/*   .cls_imageContent1 {
+    margin-top: 9.33vw!important;
+  } */
   .cls_footerWrapDesktop {
     padding: 0px;
     height: 100% !important;

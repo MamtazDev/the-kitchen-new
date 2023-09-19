@@ -26,11 +26,12 @@
 }
 
 .navbar_bg_set {
-  height: 100%;
+  height: 82.547px !important;
   box-sizing: border-box;
   display: flex;
   align-items: center;
   background-color: #f2ff7f !important;
+  z-index: 9999999;
 }
 
 .svg-container {
@@ -38,7 +39,7 @@
   cursor: pointer !important;
   background: #203d37;
   margin: 0px !important;
-  height: 85px;
+  height: 82.547px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -66,7 +67,6 @@
 
 .svg-container:hover {
   background: #ff9ffc !important;
-  /* height: 100% !important; */
 }
 
 .navbar-toggler {
@@ -79,15 +79,48 @@
 
 .active {
   background-color: #ff9ffc !important;
-
   text-decoration: underline !important;
 }
 
 
+.close-icon {
+  display: none;
+  cursor: pointer;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
 
+.close-icon.show {
+  display: block;
+  z-index: 101;
+}
 
+.close_btn {
+  position: relative;
+  font-family: "Poppins";
+  font-size: 30px !important;
+  font-weight: 700 !important;
+  color: #203d37;
+  top: -12;
+  right: 1px;
+}
+
+/* Hide the hamburger button when the close icon is showing */
+.hide-hamburger {
+  display: none !important;
+}
+
+.navbar-toggler:focus {
+  text-decoration: none;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
 
 @media screen and (max-width: 768px) {
+  .navbar_mobile{
+    background-color: #f2ff7f;
+  }
   .svg-container {
     width: 65px;
   }

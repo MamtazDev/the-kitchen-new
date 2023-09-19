@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import StalkUs from "./../Connect/StalkUs";
 import "./Playlist.css";
+import kraft from "../../assets/KRAFT.mp4";
 const Playlist = () => {
   const [showmore, setShowmore] = useState(false);
   const handleshowMore = () => {
@@ -24,10 +25,7 @@ const Playlist = () => {
               controls
               className="responsive-iframe"
             >
-              <source
-                src="https://contenthub.kraftheinz.com/api/delivery/v1/khfc-p-001/local-584bf540012248e29b4ff9957cfb3a47?intent=download&expires=2023-09-18T05%3A05%3A01.4036387%2B00%3A00&entityid=7589481&rendition=property%3AMainFile&signature=jMjRwl3YgDE"
-                type="video/mp4"
-              />
+              <source src={kraft} type="video/mp4" />
             </video>
           </div>
           <div className="col-lg-6 col-sm-12">
@@ -38,7 +36,7 @@ const Playlist = () => {
               className="responsive-iframe"
             >
               <source
-                src="https://contenthub.kraftheinz.com/api/delivery/v1/khfc-p-001/local-040442fd824744a98731054450567fc0?intent=download&expires=2023-09-18T05%3A05%3A01.4036865%2B00%3A00&entityid=2787932&rendition=property%3AMainFile&signature=wLqRjD0HpW8"
+                src="https://contenthub.kraftheinz.com/api/delivery/v1/khfc-p-001/local-040442fd824744a98731054450567fc0?intent=download&expires=2023-09-19T11%3A11%3A12.9914528%2B00%3A00&entityid=2787932&rendition=property%3AMainFile&signature=1PoUI-4p-aA"
                 type="video/mp4"
               />
             </video>
@@ -54,7 +52,7 @@ const Playlist = () => {
                 className="responsive-iframe"
               >
                 <source
-                  src="https://contenthub.kraftheinz.com/api/delivery/v1/khfc-p-001/local-ebe496261de446fc9c68ac1f3b09a9ce?intent=download&expires=2023-09-18T05%3A05%3A01.4037279%2B00%3A00&entityid=2787778&rendition=property%3AMainFile&signature=KlbXdRWuEdA"
+                  src="https://contenthub.kraftheinz.com/api/delivery/v1/khfc-p-001/local-ebe496261de446fc9c68ac1f3b09a9ce?intent=download&expires=2023-09-19T11%3A11%3A12.9915445%2B00%3A00&entityid=2787778&rendition=property%3AMainFile&signature=bFwdAUk-I4A"
                   type="video/mp4"
                 />
               </video>
@@ -67,7 +65,7 @@ const Playlist = () => {
                 className="responsive-iframe"
               >
                 <source
-                  src="https://contenthub.kraftheinz.com/api/delivery/v1/khfc-p-001/local-ccbbf6c7195e443688d901f2f701f472?intent=download&expires=2023-09-18T05%3A05%3A01.4038227%2B00%3A00&entityid=2787768&rendition=property%3AMainFile&signature=Jxv-NRLnbmA"
+                  src="https://contenthub.kraftheinz.com/api/delivery/v1/khfc-p-001/local-ccbbf6c7195e443688d901f2f701f472?intent=download&expires=2023-09-19T11%3A11%3A12.9916925%2B00%3A00&entityid=2787768&rendition=property%3AMainFile&signature=rIlj8cTvDts"
                   type="video/mp4"
                 />
               </video>
