@@ -4,6 +4,8 @@ import "./Playlist.css";
 import kraft from "../../assets/KRAFT.mp4";
 import work2 from "../../assets/work-2.mp4";
 import heizn from "../../assets/HEINZ.mp4";
+import work1 from "../../assets/work1.mp4";
+
 const Playlist = () => {
   const [showmore, setShowmore] = useState(false);
   const handleshowMore = () => {
@@ -38,7 +40,7 @@ const Playlist = () => {
               className="responsive-iframe"
             >
               <source
-                src="https://contenthub.kraftheinz.com/api/delivery/v1/khfc-p-001/local-040442fd824744a98731054450567fc0?intent=download&expires=2023-09-19T11%3A11%3A12.9914528%2B00%3A00&entityid=2787932&rendition=property%3AMainFile&signature=1PoUI-4p-aA"
+                src={work1}
                 type="video/mp4"
               />
             </video>

@@ -4,7 +4,7 @@ import "./Work.css";
 import StalkUs from "../Connect/StalkUs";
 import heizn from "../../assets/HEINZ.mp4";
 import work2 from "../../assets/work-2.mp4";
-
+import work1 from "../../assets/work1.mp4";
 const Work = () => {
   return (
     <>
@@ -51,10 +51,7 @@ const Work = () => {
               controls
               className="responsive-iframe1"
             >
-              <source
-                src="https://contenthub.kraftheinz.com/api/public/content/30d16c48961a4510a99d94ad23439b03?v=25761701"
-                type="video/mp4"
-              />
+              <source src={work1} type="video/mp4" />
             </video>
           </div>
         </div>

@@ -52,13 +52,13 @@ flex-direction: column;    padding: 4.5vw !important;
 
 .cls_description2 {
     font-family: "Poppins";
-    font-size: 2.7vw !important;
-    line-height: 3.19vw;
-    /* width: 55vw; */
+    font-size: 2.2vw !important;
+    line-height: 2.7vw;
     text-align: left !important;
     color: #203D37 !important;
     font-weight: 700 !important;
     margin-bottom: 42.240px !important;
+    width: 37vw !important;
 }
 
 .cls_subdescription p {
@@ -144,7 +144,7 @@ flex-direction: column;    padding: 4.5vw !important;
     }
 
     .banner4 .cls_description2 p {
-        font-size: 5.3vw !important;
+        font-size: 2.2vw !important;
         line-height: 6.4vw !important;
         width: 83vw !important;
         margin-top: 25px !important;
