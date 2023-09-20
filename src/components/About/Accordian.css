@@ -22,16 +22,9 @@ label {
   padding: 1.5vw 0 1.5vw 4vw;
 }
 
-/* .kindtitle {
-  display: flex !important;
-  align-items: center !important;
-  font-size: 4.1vw !important;
-  font-weight: 700 !important;
-  color: #203d37;
-  font-family: "Poppins", sans-serif !important;
-  padding: 1.5vw 0 1.5vw 4vw;
-
-} */
+.kind-wrap {
+  padding-bottom: 80px !important;
+}
 
 .kind-wrap p {
   width: 70vw;
@@ -127,15 +120,6 @@ h3 div {
   font-size: 3vw;
 }
 
-.chatBubbleImage {
-  width: 7.59vw !important;
-  height: 5.48vw !important;
-}
-
-.chat_container {
-  text-align: center;
-  margin-top: -80px;
-}
 
 /* kind */
 
@@ -179,7 +163,27 @@ h3 div {
   padding: 2vw 0;
 }
 
+
+.ans_sec {
+  position: relative;
+}
+
+.ans_sec img {
+  position: absolute;
+  left: 43%;
+  transform: translateX(-46%);
+  width: 7.59vw;
+  height: 5.48vw;
+  bottom: -40% !important;
+}
+
 @media only screen and (max-width: 768px) {
+  .ans_sec img {
+    width: 20.2vw !important;
+    height: 14.6vw !important;
+bottom: -57% !important;
+  }
+
   .img-container {
     display: flex !important;
     align-items: center !important;
@@ -203,11 +207,9 @@ h3 div {
 
   .circle-vector {
     height: 1.84vw !important;
-    /* margin: 0px 3px; */
   }
 
   .angel-vecor {
-    /* margin-left: 1px; */
     margin-right: 1px;
   }
 
@@ -269,34 +271,7 @@ h3 div {
   }
 
 
-  .chat_container {
-    text-align: center;
-    margin-top: -29px;
-  }
 }
 
-@media only screen and (max-width: 1440px) {
-  .chatBubbleImage {
-    width: 15.2vw !important;
-    height: 10.6vw !important;
-  }
+@media only screen and (max-width: 375px) {}
 
-  .chat_container {
-    text-align: center;
-    margin-top: -50px;
-    /* margin-top: -45px; */
-  }
-}
-
-@media only screen and (max-width: 425px) {
-  .chatBubbleImage {
-    width: 15.2vw !important;
-    height: 10.6vw !important;
-  }
-
-  .chat_container {
-    text-align: center;
-    margin-top: -30px;
-    /* margin-top: -45px; */
-  }
-}

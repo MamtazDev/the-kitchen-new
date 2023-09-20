@@ -35,7 +35,7 @@ const Connect = () => {
             </div>
           </div>
 
-          <div className="col-lg-6 col-sm-12 cls_imageContent ">
+          <div className="col-lg-6 col-sm-12  video_padding">
             <video width="100%" height="auto" autoPlay muted style={{borderRadius:"7.46612px" ,boxShadow:"9.95483px 9.95483px 0px #eeff67"}}>
               <source
                 src={peoplePixel}

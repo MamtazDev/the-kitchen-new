@@ -2,12 +2,15 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Work.css";
 import StalkUs from "../Connect/StalkUs";
+import heizn from "../../assets/HEINZ.mp4";
+import work2 from "../../assets/work-2.mp4";
+
 const Work = () => {
   return (
     <>
       {/* section 1 */}
       <div className="work_banner">
-        <div className="row d-flex justify-content-center align-items-center">
+        <div className="row d-flex align-items-center">
           <div className="col-lg-6 col-sm-12 left_work_container">
             <div
               role="text"
@@ -61,10 +64,7 @@ const Work = () => {
           <div className="row">
             <div className="col-lg-6 col-sm-12">
               <video width="" height="" controls className="responsive-iframe">
-                <source
-                  src="https://contenthub.kraftheinz.com/api/public/content/c0a9f2931bc74435bd373fc33dfcfb33?v=1e44441f"
-                  type="video/mp4"
-                />
+                <source src={work2} type="video/mp4" />
               </video>
             </div>
             <div className="col-lg-6 col-sm-12">
@@ -75,10 +75,7 @@ const Work = () => {
                 className="responsive-iframe frame3"
                 style={{ marginLeft: "" }}
               >
-                <source
-                  src="https://contenthub.kraftheinz.com/api/public/content/ff2a71f6b1ac4aeab38c7b1ab420c646?v=4aa8bb60"
-                  type="video/mp4"
-                />
+                <source src={heizn} type="video/mp4" />
               </video>
             </div>
           </div>

@@ -19,6 +19,7 @@
 .hover_div:hover {
   background-color: #ff9ffc;
 
+
 }
 
 .hover_div a:hover {
@@ -80,6 +81,11 @@
 .active {
   background-color: #ff9ffc !important;
   text-decoration: underline !important;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
 }
 
 
@@ -118,9 +124,11 @@
 }
 
 @media screen and (max-width: 768px) {
-  .navbar_mobile{
+  .navbar_mobile {
     background-color: #f2ff7f;
+    padding-bottom: 30px;
   }
+
   .svg-container {
     width: 65px;
   }

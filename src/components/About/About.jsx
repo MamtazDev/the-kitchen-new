@@ -6,8 +6,8 @@ import Transparent from "./Transparent/Transparent";
 import Curious from "./Curious/Curious";
 import Collaborative from "./Collaborative/Collaborative";
 import PeopleMarquee from "./PeopleMarquee";
-import { Link } from "react-router-dom";
 import StalkUs from "../Connect/StalkUs";
+import peoplePixel from "../../assets/TK_PeoplePixels_v2.mp4";
 const About = () => {
   return (
     <>
@@ -31,7 +31,7 @@ const About = () => {
             </div>
           </div>
 
-          <div className="col-lg-6 col-sm-12 ">
+          <div className="col-lg-6 col-sm-12 mt-5">
             <video
               width="100%"
               height="auto"
@@ -86,12 +86,9 @@ const About = () => {
             </div>
           </div>
 
-          <div className="col-lg-6 col-sm-12 ">
+          <div className="col-lg-6 col-sm-12 about_people_pixel_video">
             <video width="100%" height="auto" autoPlay muted>
-              <source
-                src="https://d2ozwg77fjfk77.cloudfront.net/kraftuat/kraftbrands/kitchen/v202212011152p/video/TK_PeoplePixels_v2.mp4"
-                type="video/mp4"
-              />
+              <source src={peoplePixel} type="video/mp4" />
             </video>
           </div>
         </div>

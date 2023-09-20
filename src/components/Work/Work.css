@@ -2,6 +2,7 @@
     padding: 0.8vw 5.76vw;
     background-color: #daf5fe !important;
     position: relative;
+    padding-top: 150px !important;
 }
 
 
@@ -112,6 +113,11 @@ a {
 }
 
 @media only screen and (max-width: 768px) {
+    .left_work_container {
+        min-width: calc(90% - 50px);
+        padding: 0 25px;
+    }
+
     .chat_wrap img {
         width: 31.73vw;
         height: 23.73vw;
@@ -129,6 +135,7 @@ a {
         margin-bottom: 31px;
         margin-top: 0px;
     }
+
     .responsive-iframe1 {
         margin-bottom: 31px;
         margin-top: 0px;
@@ -173,7 +180,8 @@ a {
     .work_banner {
         padding: 30px 25px !important;
     }
-    .second_playlist{
+
+    .second_playlist {
         margin-top: 20px !important;
     }
 

@@ -2,6 +2,8 @@ import React, { useEffect, useState } from "react";
 import StalkUs from "./../Connect/StalkUs";
 import "./Playlist.css";
 import kraft from "../../assets/KRAFT.mp4";
+import work2 from "../../assets/work-2.mp4";
+import heizn from "../../assets/HEINZ.mp4";
 const Playlist = () => {
   const [showmore, setShowmore] = useState(false);
   const handleshowMore = () => {
@@ -51,10 +53,7 @@ const Playlist = () => {
                 controls
                 className="responsive-iframe"
               >
-                <source
-                  src="https://contenthub.kraftheinz.com/api/delivery/v1/khfc-p-001/local-ebe496261de446fc9c68ac1f3b09a9ce?intent=download&expires=2023-09-19T11%3A11%3A12.9915445%2B00%3A00&entityid=2787778&rendition=property%3AMainFile&signature=bFwdAUk-I4A"
-                  type="video/mp4"
-                />
+                <source src={heizn} type="video/mp4" />
               </video>
             </div>
             <div className="col-lg-6 col-sm-12">
@@ -64,10 +63,7 @@ const Playlist = () => {
                 controls
                 className="responsive-iframe"
               >
-                <source
-                  src="https://contenthub.kraftheinz.com/api/delivery/v1/khfc-p-001/local-ccbbf6c7195e443688d901f2f701f472?intent=download&expires=2023-09-19T11%3A11%3A12.9916925%2B00%3A00&entityid=2787768&rendition=property%3AMainFile&signature=rIlj8cTvDts"
-                  type="video/mp4"
-                />
+                <source src={work2} type="video/mp4" />
               </video>
             </div>
           </div>

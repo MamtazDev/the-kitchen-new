@@ -300,11 +300,12 @@ const PanelKind = () => {
       </h3>
       <div className="section1 kind-wrap showdiv">
         <p className="description kind_desc desktop-desc">
-          THE JERK STORE CALLED BUT NO ONE IN THE KITCHEN ANSWERED.
+          THE JERK STORE CALLED BUT NO ONE IN THE KITCHEN{" "}
+          <span className="ans_sec">
+            ANSWERED.{" "}
+            <img width={70} className="" src={chatBubble3} alt="" />
+          </span>
         </p>
-        <div className="chat_container">
-          <img className="chatBubbleImage" src={chatBubble3} alt="" />
-        </div>
       </div>
     </>
   );

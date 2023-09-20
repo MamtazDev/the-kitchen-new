@@ -1,6 +1,7 @@
 import React from "react";
 import welcomeKitchen from "../../assets/welcome_to_the_kitchen_sticker.png";
 import "./Banner.css";
+import heizn from '../../assets/HEINZ.mp4'
 const Banner = () => {
   return (
     <div className="banner1_border">
@@ -38,13 +39,13 @@ const Banner = () => {
       <div className="videooo">
         <video width="100%" height="auto"  controls className="" >
           <source
-            src="https://contenthub.kraftheinz.com/api/public/content/ff2a71f6b1ac4aeab38c7b1ab420c646?v=4aa8bb60"
+            src={heizn}
             type="video/mp4"
           />
         </video>
         <div className="point_click">
           <img
-          width={200}
+          // width={200}
           className="poin_image"
             alt="point-click"
             src="https://d2ozwg77fjfk77.cloudfront.net/636/studio/assets/v1665402708194_120193136/point_click.png"

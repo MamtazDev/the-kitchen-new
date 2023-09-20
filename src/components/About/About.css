@@ -74,6 +74,7 @@ flex-direction: column;    padding: 4.5vw !important;
 .banner4 {
     background-color: #daf5fe !important;
     padding: 3vw 4vw !important;
+    border-bottom: 5px solid #fe5236;
 }
 
 .banner4 video {
@@ -93,10 +94,21 @@ flex-direction: column;    padding: 4.5vw !important;
 
 .bottom-image img {
     width: 11vw !important;
+
 }
 
 /* responsive */
 @media only screen and (max-width: 768px) {
+
+
+    .about_container {
+        padding-top: 50px !important;
+    }
+
+    .about_people_pixel_video {
+        margin-bottom: 30px;
+    }
+
     .about_title {
         color: #203d37 !important;
         margin-bottom: 0.5em !important;
@@ -124,11 +136,13 @@ flex-direction: column;    padding: 4.5vw !important;
     .about_video {
         width: 84.53vw !important;
         height: 84.53vw !important;
+        padding-bottom: 52px !important;
     }
 
-.banner{
-    margin-top: 32px !important;
-}
+    .banner {
+        margin-top: 32px !important;
+    }
+
     .banner4 .cls_description2 p {
         font-size: 5.3vw !important;
         line-height: 6.4vw !important;
@@ -164,6 +178,7 @@ flex-direction: column;    padding: 4.5vw !important;
 
 
     }
+
     .banner4 video {
         width: 85.6vw !important;
         height: 107vw !important;
